@@ -8,6 +8,8 @@
 >Using SSH
 `git clone git@github.com:mn-48/Django-4.2-GraphQL-Template.git`
 
+*Step:1 Go to backend directory where exist manage.py*
+`cd backend`
 
 
 
